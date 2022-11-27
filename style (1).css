@@ -1,0 +1,17 @@
+.heading{
+    box-shadow: black;
+   padding: 5px;
+   margin: 10px;
+}
+canvas{
+    border: 10px 5px red;
+    box-shadow:black;
+    padding:5px;
+    margin:10px;
+}
+#heading1{
+    box-shadow: black;
+    padding: 5px;
+    margin: 10px;
+    font-size: 5px;
+}
